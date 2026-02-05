@@ -7,4 +7,3 @@ type: "University of Bayreuth. Spring 2025. (Lecturer)"
 #date: 2014-01-01
 #location: "City, Country"
 ---
-
