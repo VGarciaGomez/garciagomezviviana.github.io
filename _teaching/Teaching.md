@@ -4,9 +4,6 @@ permalink: /teaching/
 layout: single
 author_profile: true
 ---
-
-
-## Lecturer
 ● **Family Economics (Bachelor).** University of Bayreuth. Spring 2025- currently. *(Lecturer)*  
 
 ● **Survey Design and Analysis (Master).** University of Bayreuth. Spring 2025- currently. *(Lecturer)*  
