@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-##Lecturer
+## Lecturer
 
 ● Family Economics (Bachelor). University of Bayreuth. Spring 2025. (Lecturer)
 
