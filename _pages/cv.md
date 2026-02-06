@@ -1,5 +1,6 @@
 ---
-layout: archive
+#layout: archive
+layout:single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -9,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download PDF
+You can download my full CV here: 👉 [**Download CV (PDF)**](/files/20230119_Garcia_CV.pdf)
