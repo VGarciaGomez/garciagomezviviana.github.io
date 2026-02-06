@@ -2,12 +2,9 @@
 title: "Teaching"
 permalink: /teaching/
 layout: single
-author_profile: true
+author_profile: false
 ---
-collection: teaching
-type: ""
-venue: ""
-location: ""
+
 
 ## Lecturer
 ● **Family Economics (Bachelor).** University of Bayreuth. Spring 2025- currently. *(Lecturer)*  
